@@ -5,8 +5,6 @@ node_modules/
 dist/
 
 # environment variables
-.env
-.env.local
 .env.*.local
 
 # logs
@@ -14,7 +12,6 @@ dist/
 npm-debug.log*
 
 # editor
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -23,4 +20,7 @@ npm-debug.log*
 .DS_Store
 Thumbs.db
 .vercel
-.env*
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
