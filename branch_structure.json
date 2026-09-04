@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "ui/navbar-and-standings-fix"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "ui/navbar-and-standings-fix": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "ui/navbar-and-standings-fix"
+  ]
+}
